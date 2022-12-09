@@ -1,4 +1,4 @@
-DESCRIPTION:
+OVERVIEW:
 Implementations contains ROC-AUC and PR-AUC metric comparison between QIPF and Ensemble methods. We chose ensemble methods for the code demonstration since it currently achieves state-of-the-art performance in many applications. 
 =====================================================
 
